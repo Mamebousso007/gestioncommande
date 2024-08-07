@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "115080539774",
+    "project_id": "gestion-commande2",
+    "storage_bucket": "gestion-commande2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:115080539774:android:c28323cff5134844c8f22f",
+        "android_client_info": {
+          "package_name": "com.example.gestioncommande"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDE_GSx5kAtiFZAbwQYKVH74HMhbtJ9EzQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
